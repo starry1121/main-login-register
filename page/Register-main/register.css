@@ -8,9 +8,9 @@ div{
 }
 
 .bg{
-    background-color: #daeaf8;
-
+    background-color: rgb(242, 246, 251);
 }
+
 /*页面主体*/
 .content{
     width: 1000px;
@@ -26,7 +26,7 @@ div{
 .crumbs{
     height: 32px;
     line-height: 32px;
-    background-color: #daeaf8;
+    background-color: rgb(242, 246, 251);
 }
 
 /*当前位置 首页、注册链接*/
